@@ -28,7 +28,7 @@ public class Employee {
         currentDate = new Date();
     }
 
-    public void firstDay(String cubeId) {
+    public void doFirstDay(String cubeId) {
         meetWithHrForBenefitAndSalryInfo();
         meetDepartmentStaff();
         reviewDeptPolicies();
