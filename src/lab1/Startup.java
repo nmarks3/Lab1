@@ -20,7 +20,7 @@ public class Startup {
             not have to be a GUI class.
         */
         HrManager hr = new HrManager();
-        hr.newHire();
+        hr.newEmployee();
     }
     
     

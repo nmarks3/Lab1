@@ -8,7 +8,7 @@ package lab1;
 public class HrManager {
    private Employee employee;
    
-    public void newHire() {
+    public void newEmployee() {
         employee = new Employee();
         employee.setFirstName("Peter");
         employee.setLastName("Piper");
